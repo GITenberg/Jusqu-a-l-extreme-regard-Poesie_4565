@@ -1,0 +1,21 @@
+_repo: Jusqu-a-l-extreme-regard-Poesie_4565
+creator:
+  author:
+    agent_name: Bertrand, Huguette
+    gutenberg_agent_id: '1509'
+    url: http://www.gutenberg.org/2009/agents/1509
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4565'
+language: fr
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: 'Jusqu''à l''extrême regard: Poésie'
+url: http://www.gutenberg.org/ebooks/4565
